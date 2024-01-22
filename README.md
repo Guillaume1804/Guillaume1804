@@ -6,7 +6,7 @@ Je suis passionné d'informatique et étudiant déterminé à explorer les multi
 ## Compétences
 - Langages informatiques : HTML5, CSS3
 - Langages de programmation : JavaScript, Python
-- Développement web : Gitbash, VSCode, Unreal Engine
+- Technologies : Gitbash, VSCode, Unreal Engine
 
 ## Projets en cours
 - 🚀 Portfolio - Une première approche de la conception d'un Portfolio avec les langages HTML et CSS.
